@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Service", "NLayer.Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.API", "NLayer.API\NLayer.API.csproj", "{D7D0A3E9-AB69-4C32-8E32-7C8A0FC81057}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Wep", "NLayer.Wep\NLayer.Wep.csproj", "{AE69871E-6E54-46A7-ADD6-5544D9E8F41A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Web", "NLayer.Wep\NLayer.Web.csproj", "{AE69871E-6E54-46A7-ADD6-5544D9E8F41A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Caching", "NLayer.Caching\NLayer.Caching.csproj", "{B42AE6DA-5E14-4103-872D-07A6CE5C700C}"
 EndProject
